@@ -1,0 +1,35 @@
+Ziwei Zhao (CCID: ziwei11):
+1. Comments on Weixi(CCID: weixi):
+Good job. She not only quickly finished her part, did a good job on her solo ER-model and mapping, but also gave us some instruction about how to use Dia app. She also helped me a lot with my solo ED-model. 
+
+
+2. Comments on Bingran(CCID: bingran1):
+He also did a good job on this assignment. After we finished our work, he checked every part of our assignment carefully. He also pointed out some tiny mistakes in our work, very helpful.
+
+
+
+
+
+
+Weixi Cheng (CCID: weixi): 
+1. Comments on Ziwei(CCID: ziwei11): 
+Good job. Ziwei drew a very complete ER diagram and gave more reasonable relationships of the vote entity. In the group discussion, she gave us some useful advice which gave us a lot of inspiration.
+
+
+2. Comments on Bingran(CCID: bingran1):
+Well done. Bingran’s ER diagram is really logical and gave many details which made the group diagram better. He was also very active in the group discussion and provided a lot of good ideas.
+
+
+
+
+
+
+Bingran Huang (CCID: bingran1):
+1. Comments on Ziwei(CCID: ziwei11):
+She did a great job on her solo ER-model, her solo is complete enough and the structure is clear enough. During the group discussion, she provided many useful and reasonable ideas to our final ER-model and the mapping.
+
+
+2. Comments on Weixi(CCID: weixi):
+She also did a good job on her own model. She always reminded us when we forget
+some important detail such as the arrow between two entities and the she provided
+enough evidence to prove that we should put an arrow there.
