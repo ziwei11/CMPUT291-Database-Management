@@ -5,6 +5,6 @@ a1: Entity-Relationship Model
 
 a2: 10 SQL Query Statements
 
-prjcode1: Published, retrieved and administered edits to data through designed GUI interface and user system
+prjcode1: Published, retrieved and administered edits to data by SQL query statements through designed GUI interface Database and user system 
 
 prjcode2: Linked and transferred data to mongoDB, extracted terms and built an index, improve prjcode1
